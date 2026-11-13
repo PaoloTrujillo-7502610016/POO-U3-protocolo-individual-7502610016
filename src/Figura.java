@@ -1,5 +1,13 @@
-public abstract class Figura {
+public abstract class Figura {//Clase abstracta
+    protected double area;
 
-    public abstract void calcularArea();
+    public Figura() {//Constructor
+    }
+
+    public abstract void calcularArea();//Metodo abstracto
+
+    public void mostrarArea(){//Metodo concreto
+        System.out.println("El area de la figura es: "+area);
+    }
 
 }
