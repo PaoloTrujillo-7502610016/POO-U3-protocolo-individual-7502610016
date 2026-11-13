@@ -1,6 +1,6 @@
 package taller_11;
 
-public class Main {
+public class PruebaTaller11 {
 
     static void main(String[] args) {
         System.out.println("\n***Inicio del Programa***\n");

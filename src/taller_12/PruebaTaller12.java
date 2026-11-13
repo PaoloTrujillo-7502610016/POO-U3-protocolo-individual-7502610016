@@ -1,0 +1,14 @@
+package taller_12;
+
+public class PruebaTaller12 {
+
+
+    static void main(String[] args) {
+        System.out.println("\n***Iniciando Taller 12***\n");
+
+        /*Ejercicio 1*/
+        System.out.println("Ejercicio 1:");
+
+
+    }
+}
