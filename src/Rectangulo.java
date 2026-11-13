@@ -3,6 +3,7 @@ public class Rectangulo extends Figura{
     private int altura;
 
     public Rectangulo(int base, int altura){
+        nombre="Rectangulo";
         this.base = base;
         this.altura = altura;
     }
