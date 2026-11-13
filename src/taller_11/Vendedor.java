@@ -1,3 +1,5 @@
+package taller_11;
+
 public class Vendedor extends Empleado{
 
     public Vendedor(double salario){

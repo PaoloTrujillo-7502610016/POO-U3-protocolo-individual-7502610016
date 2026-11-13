@@ -1,3 +1,5 @@
+package taller_11;
+
 public abstract class Empleado {
     protected String nombre;
     protected double salario;

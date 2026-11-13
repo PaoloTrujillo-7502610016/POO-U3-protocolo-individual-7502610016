@@ -1,7 +1,9 @@
+package taller_11;
+
 public class Gerente extends Empleado{
 
     public Gerente(double salario){
-        nombre="Gerente";
+        nombre="taller_11.Gerente";
         this.salario=salario;
     }
 
