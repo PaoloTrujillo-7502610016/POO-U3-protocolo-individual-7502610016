@@ -8,6 +8,12 @@ public class PruebaTaller12 {
 
         /*Ejercicio 1*/
         System.out.println("Ejercicio 1:");
+        Persona persona = new Persona();
+        persona.trabajar();
+        persona.hablar();
+
+        /*Ejercicio 2*/
+        System.out.println("Ejercicio 2:");
 
 
     }
