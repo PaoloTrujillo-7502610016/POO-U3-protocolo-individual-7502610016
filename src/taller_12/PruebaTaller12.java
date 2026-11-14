@@ -14,6 +14,12 @@ public class PruebaTaller12 {
 
         /*Ejercicio 2*/
         System.out.println("Ejercicio 2:");
+        Animal animal = new Animal();
+        animal.volar();
+        animal.nadar();
+
+        /*Ejercicio 3*/
+        System.out.println("Ejercicio 3:");
 
 
     }
