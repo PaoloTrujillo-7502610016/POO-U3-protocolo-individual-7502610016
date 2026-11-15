@@ -8,4 +8,10 @@ public abstract class Figura { //Clase abstracta
     void mostrarArea(){
         System.out.println("Area: "+area);
     };
+
+    /*Ejemplo ejercicio 3*/
+//    default void calcularPerimetro(){ /*Metodo predeterminado en una clase abstracta*/
+//        System.out.println("Perimetro");
+//    }
+
 }
