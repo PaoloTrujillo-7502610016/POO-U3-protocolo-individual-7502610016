@@ -10,8 +10,11 @@ public abstract class Figura { //Clase abstracta
     };
 
     /*Ejemplo ejercicio 3*/
-//    default void calcularPerimetro(){ /*Metodo predeterminado en una clase abstracta*/
-//        System.out.println("Perimetro");
-//    }
+    default void calcularPerimetro(){ /*Metodo predeterminado en una clase abstracta*/
+        System.out.println("Perimetro");
+    }
+
+   /*La palabra default no se utiliza para declarar metodos predeterminados dentro de una clase abstracta.
+   La palabra default se utiliza en interfaces*/
 
 }
