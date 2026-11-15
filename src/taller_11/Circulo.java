@@ -4,7 +4,7 @@ public class Circulo extends Figura{
     private double radio;
 
     public Circulo(double radio){
-        nombre = "taller_11.Circulo";
+        nombre = "Circulo";
         this.radio = radio;
     }
     @Override

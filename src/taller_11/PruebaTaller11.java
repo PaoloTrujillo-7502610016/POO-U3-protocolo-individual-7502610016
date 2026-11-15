@@ -15,8 +15,10 @@ public class PruebaTaller11 {
         /*Ejercicio 2*/
         System.out.println("\nEjercicio 2:");
         Gerente gerente = new Gerente(5000000);
+        gerente.calcularSalario();
         gerente.mostrarDetalles();
         Vendedor vendedor = new Vendedor(3350000);
+        vendedor.calcularSalario();
         vendedor.mostrarDetalles();
 
         /*Ejercicio 3*/

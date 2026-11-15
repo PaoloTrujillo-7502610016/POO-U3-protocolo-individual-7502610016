@@ -9,6 +9,6 @@ public class Vendedor extends Empleado{
 
     @Override
     public void calcularSalario(){
-        mostrarDetalles();
+        salario=salario+salario*0.1;
     }
 }

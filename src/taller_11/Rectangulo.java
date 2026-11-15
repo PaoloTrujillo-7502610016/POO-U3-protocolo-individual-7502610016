@@ -5,7 +5,7 @@ public class Rectangulo extends Figura{
     private int altura;
 
     public Rectangulo(int base, int altura){
-        nombre="taller_11.Rectangulo";
+        nombre="Rectangulo";
         this.base = base;
         this.altura = altura;
     }
